@@ -1,0 +1,1 @@
+This project aims to create a GUI based application that lets various members active in a pizza restaurant communicate and track their tasks, using a mySQL database
